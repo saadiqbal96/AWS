@@ -4,7 +4,7 @@
 
 0. **Public, Private and Hybrid Clouds**
 
-Private, Public and Hybrid clouds are three types of cloud computing models that cater to different business needs by balancing factors such as cost, control, scalability and security
+Private, Public and Hybrid clouds are three types of cloud computing models that cater to different business needs by balancing factors such as cost, control, scalability and security.
 
 In Public cloud environments:
 - Resources are shared among multiple users.
@@ -31,7 +31,7 @@ In Hybrid Cloud environments:
 1.  **AWS offers pay-as-you-go service and you don't pay anything upfront.**
 
 2. **IaaS, PaaS, SaaS.**
-- Infrastructure as a service (IaaS): Raw computer power. You rent entire computers, virtual servers, storage and networking
+- Infrastructure as a service (IaaS): Raw computer power. You rent entire computers, virtual servers, storage and networking.
 - Platform as a service (PaaS): You only focus on building and running apps. It gives developers a place to write, test and launch apps without managing the underlying hardware.
 - Software as a service (SaaS): Finished software that is ready to use right away. You just login through a web browser.
 
@@ -41,7 +41,7 @@ In Hybrid Cloud environments:
 
 3.5 **VPC implements security.**
 - VPC stands for (Amazon) Virtual Private Cloud: your own isolated cloud environment inside AWS.
-- VPC gives you complete control over your virtual networking environment. Within it, you can define IP address range, create subnets (smaller network segments), configure routing tables (to direct traffic) and set up network gateways (to connect to the internet). Withing VPC you basically control who is allowed in, out and how the servers connect to each other.
+- VPC gives you complete control over your virtual networking environment. Within it, you can define IP address range, create subnets (smaller network segments), configure routing tables (to direct traffic) and set up network gateways (to connect to the internet). Within VPC you basically control who is allowed in, out and how the servers connect to each other.
 
 4. **Go global in minutes: AWS allows you to deploy your application to users all over the world with just a few clicks.**
 
@@ -68,8 +68,8 @@ By using Migration Evaluator organizations can clearly see how migrating to AWS 
 - Cost of data center operations.
 
 10.5 **Migration from on-premise to the cloud: The AWS Shared responsibility Model - AWS is responsible for the security "of" the cloud, and the customer is reponsible for security "in" the cloud.**
-- AWS's responsibility: Take care of the physical infrastructure; this includes guarding the physical data centers (physical security), keeping the cooling running (power consumption) and maintaining the actual host servers and cables (hardware infrastructure)
-- Customer's responsibility: The customer is responsible for their own software, managing application licenses and keeping guest operating systems upated.
+- AWS's responsibility: Take care of the physical infrastructure; this includes guarding the physical data centers (physical security), keeping the cooling running (power consumption) and maintaining the actual host servers and cables (hardware infrastructure).
+- Customer's responsibility: The customer is responsible for their own software, managing application licenses and keeping guest operating systems updated.
 
 *Note: The example above applies strictly to a migration from on-premises to the cloud. In general cloud deployments, your exact responsibilities will change dynamically based on the specific service model used (IaaS, PaaS, or SaaS).*
   
