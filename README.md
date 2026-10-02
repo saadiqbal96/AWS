@@ -2,6 +2,30 @@
 
 # MODULE 1
 
+0. **Public, Private and Hybrid Clouds**
+
+Private, Public and Hybrid clouds are three types of cloud computing models that cater to different business needs by balancing factors such as cost, control, scalability and security
+
+In Public cloud environments:
+- Resources are shared among multiple users.
+- Pay only for what you use.
+- Available from anywhere with Internet Access.
+- Shared with others, so risk of data breaches.
+- Limited control over infrastructure.
+In Private Cloud environments:
+- Resources are not shared with others.
+- More control over data and resources.
+- Tailored to specific needs and compliance.
+- More expensive to acquire and maintain.
+- Limited to serve a specific organization (not scalable).
+In Hybrid Cloud environments:
+- Combines public and private environments.
+- Can run sensitive workloads in a private cloud while using public cloud for less sensitive tasks.
+- Optimizes cost and performance (cost efficiency).
+- Provides both security and flexibility.
+
+*In simple terms Private clouds provide greater control and security, while Public clouds offer cost efficiency and scalability. Hybrid clouds combine both models, allowing for flexibility and cost optimization.*
+
 1.  **AWS offers pay-as-you-go service and you don't pay anything upfront.**
 
 2. **IaaS, PaaS, SaaS.**
