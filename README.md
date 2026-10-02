@@ -67,7 +67,7 @@ By using Migration Evaluator organizations can clearly see how migrating to AWS 
 - Cost of physical server hardware.
 - Cost of data center operations.
 
-10.5 **Migration from on-premise to the cloud: The AWS Shared responsibility Model; AWS is responsible for the security "of" the cloud, and the customer is reponsible for security "in" the cloud.**
+10.5 **Migration from on-premise to the cloud: The AWS Shared responsibility Model - AWS is responsible for the security "of" the cloud, and the customer is reponsible for security "in" the cloud.**
 - AWS's responsibility: Take care of the physical infrastructure; this includes guarding the physical data centers (physical security), keeping the cooling running (power consumption) and maintaining the actual host servers and cables (hardware infrastructure)
 - Customer's responsibility: The customer is responsible for their own software, managing application licenses and keeping guest operating systems upated.
 
