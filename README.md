@@ -12,3 +12,4 @@
 - Balancing: sends the traffic equally ensuring no single server gets overwhelmed.
 
 3.5 VPC implements security
+VPC stands for (Amazon) Virtual Private Cloud: your own isolated cloud environment inside AWS.
