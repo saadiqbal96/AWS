@@ -71,5 +71,5 @@ By using Migration Evaluator organizations can clearly see how migrating to AWS 
 - AWS's responsibility: Take care of the physical infrastructure; this includes guarding the physical data centers (physical security), keeping the cooling running (power consumption) and maintaining the actual host servers and cables (hardware infrastructure)
 - Customer's responsibility: The customer is responsible for their own software, managing application licenses and keeping guest operating systems upated.
 
-*Note*: The example above applies strictly to a migration from on-premises to the cloud. In general cloud deployments, your exact responsibilities will change dynamically based on the specific service model used (IaaS, PaaS, or SaaS).
+*Note: The example above applies strictly to a migration from on-premises to the cloud. In general cloud deployments, your exact responsibilities will change dynamically based on the specific service model used (IaaS, PaaS, or SaaS).*
   
