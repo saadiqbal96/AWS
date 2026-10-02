@@ -20,4 +20,24 @@
 5. Benefit from massive economies of scale: Since AWS manages infrastructure for millions of active customer simultaneously, they can purchase hardware power and networking at scale, and at a discount, that no individual business could ever match.
 
 6. Trade capital expense for variable expense: instead of paying heavily in physical data centers and servers before you can even use them, you only pay for the computing resources you actually consume. It turns large unpredictable upfront costs into a flexible monthly utility bill.
+
+7. In AWS Security is implemented through Network Access Control Lists (ACLs) and Identity Access Managagement (IAM)
+- Network Access Control Lists handle network security: They act as a firewall at the subnet level to control inbound and outbound traffic.
+- Identity and Access Management handles identity security: It controls authentications and authorizations for users, group, and roles.
+
+8. AWS Compute service include: EC2 (IaaS), Lambda, Fargate, Elastic Beanstalk (PaaS)
+8.5 AWS Storage methods include: S3 (Object storage) used for storing files, images, videos and backups. EBS (Block storage) like a virtual hard drive. EFS (shared network drive) multiple EC2 instances can connect to it and share files at the same time.
+
+9. AWS services are configured with:
+- AWS Management Console: a web-based graphical interface.
+- Command Line interface: a tool that lets you control AWS services using text-based commands.
+- Software development Kit: a collection of libraries that lets developers interact with AWS services directly inside their application code using languages likes Python, Java or JavaScript.
+
+10. Migration Evaluator supports an assessment of on-premise costs against a migration to the AWS Cloud.
+By using Migration Evaluator organizations can clearly see how migrating to AWS directly eliminates two massive on-premise expenses:
+- Cost of physical server hardware.
+- Cost of data center operations.
+
+10.5. AWS Shared responsibility Model: AWS is responsible for the security "of" the cloud, and the customer is reponsible for security "in" the cloud.
+AWS's responsibility: Take care of the physical infrastructure
   
