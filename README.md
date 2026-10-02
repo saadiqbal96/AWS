@@ -12,12 +12,14 @@ In Public cloud environments:
 - Available from anywhere with Internet Access.
 - Shared with others, so risk of data breaches.
 - Limited control over infrastructure.
+
 In Private Cloud environments:
 - Resources are not shared with others.
 - More control over data and resources.
 - Tailored to specific needs and compliance.
 - More expensive to acquire and maintain.
 - Limited to serve a specific organization (not scalable).
+
 In Hybrid Cloud environments:
 - Combines public and private environments.
 - Can run sensitive workloads in a private cloud while using public cloud for less sensitive tasks.
